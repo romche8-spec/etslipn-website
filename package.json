@@ -1,0 +1,1 @@
+{"name":"etslipn-website","version":"1.0.0","private":true,"description":"ETS LIPN professional static website","scripts":{"check":"node scripts/check.mjs","test":"node --test scripts/quote.test.mjs"},"engines":{"node":">=18"}}
